@@ -40,6 +40,7 @@
     <ul>
         <li><a href="index.php">Inicio</a></li>
         <li><a href="sql-index.php">Demo SQL Injection</a></li>
+        <li><a href="path-index.php">Path management</a></li>
         <!-- Puedes añadir más enlaces aquí -->
     </ul>
 </nav>
