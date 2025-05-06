@@ -42,6 +42,7 @@
         <li><a href="sql-index.php">Demo SQL Injection</a></li>
         <li><a href="path-index.php">Path management</a></li>
         <li><a href="xss-index.php">XSS</a></li>
+        <li><a href="login-index.php">Login</a></li>
         <!-- Puedes añadir más enlaces aquí -->
     </ul>
 </nav>
