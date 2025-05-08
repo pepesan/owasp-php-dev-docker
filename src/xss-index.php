@@ -15,7 +15,7 @@
     <button type="submit">Enviar</button>
 </form>
 
-<h2>Fomrulario para código sanitizado</h2>
+<h2>Formulario para código sanitizado</h2>
 <form method="post" action="xss-sanitized.php">
     <label for="name">Nombre:</label>
     <!-- Pre–rellenamos con el mismo payload malicioso -->
