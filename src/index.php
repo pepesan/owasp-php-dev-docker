@@ -44,6 +44,7 @@
         <li><a href="xss-index.php">XSS</a></li>
         <li><a href="login-index.php">Login (CSRF)</a></li>
         <li><a href="upload-index.php">Upload (ficheros maliciosos)</a></li>
+        <li><a href="jwt-index.php">JWT</a></li>
         <!-- Puedes añadir más enlaces aquí -->
     </ul>
 </nav>
